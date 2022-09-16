@@ -18,7 +18,7 @@ The following are the parts this assignment is divided into:
 * MongoDB and Flask Application
 
 
-## Scraping:
+## Part 1 - Scraping:
 
 We would need to intially scrape using Jupyter Notebook, BeautifulSoup, Pandas and Requests/Splinter.We will create a Jupyter Notebook and call is mission_to_mars.ipynb. We would perform all our scraping and analysis tasks. The following are the thigns that we need to scrape:
 
@@ -73,7 +73,7 @@ hemisphere_image_urls = [
 ]
 ```
 
-## Part 2: MongoDB and Flask Application
+## Part 2- MongoDB and Flask Application:
 
 We would use MongoDB with Flask templating to create a new HTML page that displays all the information that was scraped from the URLs above.
 
